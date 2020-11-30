@@ -14,3 +14,10 @@ Created a tool that estimates moscow apartment prices (MAE ~ $31.8) to help cons
 **Packages**: pandas, numpy, sklearn, matplotlib, seaborn, json, pickle
 
 **Data Resource**: https://www.kaggle.com/alexeyleshchenko/moscow-apartment-listings
+
+
+# [EDA](https://github.com/Jaspreetsm21/Autotrader_CarPrices_ML/blob/master/AutoTrader%20-%20EDA.ipynb)
+
+![](images/EDA_1.PNG)![](images/EDA_2.PNG)
+
+![](images/EDA_3.PNG)![](images/EDA_4.PNG)
